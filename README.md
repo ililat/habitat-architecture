@@ -16,7 +16,7 @@ HABITAT
 
 https://habitat-architecture-ilya-1016.groovy-lime-9135.chatgpt.site
 
-Публикация в Sites. Доступ по текущим настройкам аккаунта, может требовать входа через ChatGPT.
+Публикация в Sites. Сайт доступен всем по ссылке без входа через ChatGPT.
 
 ## Локальный запуск
 
