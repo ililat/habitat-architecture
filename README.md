@@ -14,7 +14,7 @@ HABITAT
 
 ## Опубликованный сайт
 
-https://habitat-architecture-ilya-1016.groovy-lime-9135.chatgpt.site
+https://ililat.github.io/habitat-architecture/
 
 Публикация в Sites. Сайт доступен всем по ссылке без входа через ChatGPT.
 
@@ -43,3 +43,9 @@ GitHub хранит исходники. GitHub Pages не запускает Wor
 ## Изображения
 
 Иллюстративные фотографии подключены с Unsplash. Они не заявлены как авторские работы вымышленного бренда.
+
+## GitHub Pages
+
+Публичный адрес: https://ililat.github.io/habitat-architecture/
+
+Экспорт: npm run build:pages. Каталог docs публикуется из ветки main. Формы обращаются к существующему Worker, который разрешает запросы с https://ililat.github.io.
